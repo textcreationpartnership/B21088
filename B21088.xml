@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the free and well-affected people of England now in armes against the tyrant Oliver Cromwell esq.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21088</idno><idno type="EEBO-CITATION">99886101</idno>
+  <idno type="VID">185924</idno>
+  <idno type="EEBO-PROQUEST">2248536175</idno>
+  
+            <idno type="STC">Wing D669</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[87]</idno>
+            <idno type="STC">ESTC R225404</idno>
+            <idno type="PROQUEST">ocm99886101</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886101e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185924)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[86])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the free and well-affected people of England now in armes against the tyrant Oliver Cromwell esq.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>printed in the yeare, 1654 [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Printed date is according to Lady Day dating.</note>
+                  <note>Ms. note at foot.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:185924:1"/>
+            <head>THE DECLARATION OF The free and well-affected People of England now in Armes against the Tyrant Oliver Cromwell Esq.</head>
+            <p>BEing satisfied in our Iudgment and Consciences of the present necessity to take up Armes for the defence of our native Rights &amp; Freedomes, which are wholy invaded &amp; swallowd up in the pride &amp; ambition of <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi> who calls himselfe Lord Protector of England, and hath rendered all English-men no better then his Vassals, wee expect to be branded with the infamous name of Rebells and Traitors, or to be misrepresented both to the Army Citty and Countrey as common enemies, disturders of the publicke peace, arbitrary Cavileeres, Lewellers, or under some other odious notion, that may provoake the Army and People to endeavour our destruction; but if wee may prevaile to be heard before wee be condemned and executed, wee shall submit our cause and righteous End wee seeke to the judgment of the Army and every honest English-man, and if the army it selfe ac<g ref="char:EOLhyphen"/>cording to their many Engagements will undertake (and their strength be sufficient) to redeeme us from our present slavery, and setle that Right and Freedome, unto which our Birth gave us title, wee shall readily lay down our present armes.</p>
+            <p>The whole Christian world knowes, that our English earth hath been drunke with blood these twelve yeares through the great contest for Right and Freedome, and the whole Treasure of the Nation exhausted in that quarell, how then can any man whose hand or heart hath been ingaged in that bloody contest either acquit himselfe to God his Conscience or his Countrey in yeilding up tamely and silently all the Lawes Rights and Liberties of <hi>England</hi> into an Vsurpers hand. Wee have for many yeares patienly borne all kinds of oppression, arbitrarines and tyranny, and suffered under such heavy burthens of Excise and Taxes, as England never knew in former ages, having been fed by him that now calls himselfe Lord Proctor and his army with speacious pretences and most alluring promises (seconded with many appeales to God for their integrity of heart in them) that true English Liberty should be setled and secured, impartiall Instice provided for, arbitrary powers abolished, and every yoake of oppression broaken, and every burden eased: and wee did beleive (as they tould us) that our present sufferings were only like a rough stormy passage to the Haven of Iustice, Right, and Freedome, wee could not suspect these ambitious Designes in Cromwell and his con<g ref="char:EOLhyphen"/>federates, that are now proclaimed to the world: wee could not thinke it possible, that a man of such a meane quality and estate as he should aspire to make himselfe an abso<g ref="char:EOLhyphen"/>lute Lord and Tyrant over three potent Nations, but above all his pretended zeale for God and his People, his high professions of Godlinesse, simplicity, and integrity, his hypocriticall prayers and dayes of fasting to seeke the Lord, his dissembled humility and meekenesse, and his frequent compassionate teares upon every occasion: wee say, these things together with his Engagements publicke and private, his most sollemne protestations with imprecations of vengance upon himselfe and family if he dissembled, and his most frequent appeales to God for the truth of his professions and Declarations that he designd nothing but securing the liberty of Gods people, and administration of impartiall justice, and sought no power honour riches or greatnesse to himselfe or any particular party or interest: we say, these things rocked us so asleepe with the pleasant dreames of liberty and justice, untill he hath made a sacrifice of all our Lawes, Li<g ref="char:EOLhyphen"/>berties, and Properties unto his owne ambition, and now is not afraide to owne what he before disclaimed and declared against: He that formerly protested before the dreadfull God and to the long Parliament, that he and his army should be wholy subject to their Civill Authority, and that whosoever should attempt any violence a<g ref="char:EOLhyphen"/>gainst them should make his way through his blood, he now ownes the breakeing them in peices with scorne and contempt: He that Declared so much humility and selfe deniall, claimes and ownes a power Supreame to Parliaments, and exerciseth an absolute Dominion over the Lawes and Estates of three Nations: he that seemed so zealous for Liberty, now dares owne every private English-man his Vassall, and their Parliaments his Slaves: he publisheth in his Printed speeches to his Parliament that the benefit that all English men have in the execution of any Lawes amongst them is from him, &amp; the Authority that their Parliaments have &amp; shal have is wholy deridved from him; he hath published to the whole world, that he hath dissolved all Civill Government, and that he had in himselfe an absolute unlimited arbitrary power without checke or controull untill he put some limits upon himselfe, if he may be beleived in his pa<g ref="char:EOLhyphen"/>per of Government: Now what Patroone in <hi>Argeire</hi> ever claimed more Mastery over his Slaves bought in the Market then this Claime of Cromwells extends unto o<g ref="char:EOLhyphen"/>ver us? If wee have the benefit of the execution of no Lawes but from him, then all the Rights Priviledges and Estates wee have, are enjoyed by his mercy only: without the execution of Lawes no man hath more right to Lands or goods then an other, nor is any mans life under any security, if an other be stronger then he: So that Cromwell ownes and prosesses, that the bread that every man eates, is by his mercy: and if his power was without limit (as he sayes) untill he had put some bounds then tis of his grace and favour only that all English men have now a seeming Right in their Wives, Children, Seruants, Lives and Estates, if his owne limits of his power gives any such right, and if he please to throw away, (or burne by the hand of the haug man) his limits in his paper of Government, who can controll him? he may doe what he list with things of his owne makeing, tis the old English Pro<g ref="char:EOLhyphen"/>verbe, He that can bind, can loose: and he may doe what he list also with the autho<g ref="char:EOLhyphen"/>rity of Parliaments, if it be as he saies, of his owne giving: Now wherein doth a Pa<g ref="char:EOLhyphen"/>troones power over his purchased Slave exceede this, which Cromwell ownes over us? The Patroone can but give the Slave his Lawes, his cloathes, his meate, his life, and all those Cromwell ownes to have given to us, only he speakes it in such language at sounds not so harshly.</p>
+            <p>Now after the expence of so much preatious Christian blood for the setling the Rights and Liberties due unto us as men and Christians, when he that was trusted with an Army for that purpose, hath so unworthely betraved his trust, spilt innocent, blood like water, falsified all his Declarations, Promises, Protestations, and Oathes, and assumed to himselfe such a Dominion over our Countrey, as is destructive unto all Right and Liberty, and renders us and our posterities Slaves to him and his Suc<g ref="char:EOLhyphen"/>cessors, with a payment of a fifth or their abouts of our Estates certaine in Taxes, to be intailed upon our posterities, besides other burthens, wee appeale to the conscience of every honest man, whether a present necessity and an incumbent duty be not upon us to arme our selues in defence of our antient Lawes, and dearest Birth rights against the present Imposture and Vsurper; and we hope most of the present Army have not extinguished their love to their Countryes Freedome (although Cromwells hypocri<g ref="char:EOLhyphen"/>ticall Professions, Prayers, and Teares, have much deluded them) but that they will readily concur with us, and other honest English-men in our present attempt by force of Armes to redeeme our Countrey out of the Vsurpers bonds, and to seeke those righteous ends, which wee doe hereby Declare to bee those, for which we now hazard our lives, and with which we shall rest satisfied, and returne to our homes in peace and they are these following, viz.</p>
+            <p n="1">1. That all assumed and usurped Powers and Authorities over our Countrey may be utterly abolished.</p>
+            <p n="2">2. That the Government may be setled upon a just basis with due bounds and limits to every Magestrate.</p>
+            <p n="3">3. That the antient Liberties of England setled by Magna Charta, the Petition of Right, and other Lawes may be secured inviolably: That no mans person may be mo<g ref="char:EOLhyphen"/>lested, imprisoned, restrained, or touched without a Legall Cause shewne in the war<g ref="char:EOLhyphen"/>rant, whereby he is molested or restrained, and that also in a due course of the Lawes known proceedings, without Countermands from the will of any man; whereas now mens persons are trobled and restrained at will, and destroyed by long imprisoments, no man knowes for what. And also that no mans Estate may be liable to any disposall or prejudice but by the known Lawes of the Land, and the lawfull Iudgment of his equalls.</p>
+            <p n="4">4. That free successive Parliaments may be setled with times of their beginning and ending, and with their antient power and priviledges.</p>
+            <p>And that the Jurisdictive powre which Parliaments have taken upon them to excer<g ref="char:EOLhyphen"/>cise in these times of warre and destraction by taking upon them the Iudgment of par<g ref="char:EOLhyphen"/>ticular Causes concerning mens persons and estates, somtimes by their Committees and somtimes by themselves, contrary to the knowne Proceedings of the Law, that such power (we say) may be Declared against, and secure provision made against the same, that thereby Parliaments may be free from the temptations of profit, freinship, and all private Interests, by which only they can be corrupted.</p>
+            <p n="5">5. That the Militia of the Nation may be so disposed, that no man may be able to be Master of Parliaments, and also that secure provision may be made, that no Par<g ref="char:EOLhyphen"/>liament shall make it selfe perpetuall and inslave the people to them.</p>
+            <p>And that such a setlement may be made of Right and Freedome, and these our ends obtained, and a peace firmely established, we know no meanes under God but a truly free Parliament,</p>
+            <p>Now for the defence of these our Rights and Liberties we are resolved to expose our Lives to the utmost hazards, and we shall neither wronge nor oppose any man, who doth not ioyne himselfe to the present Vsurper, to destroy or prevent these our righteous ends; and though we have reason to beleive, that no person fea<g ref="char:EOLhyphen"/>ring God, or of Conscience, Honour, or Reason can satisfie himselfe to shed our innocent blood for seeking these things; yet however we shall commit our selues and our just Cause to the tuition of the righteous God, and hope in his mercy, that our endeavours may procure Iustice, Freedome, Peace, and Setlement unto this distracted Nation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Yeare, 1654</p>
+         </div>
+      </back>
+   </text>
+</TEI>
